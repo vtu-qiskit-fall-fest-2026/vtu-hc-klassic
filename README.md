@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **KLassic** · Team ID `VTU-QFF-HC-0168` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#KLassic)
+[⬆ Back to Top](#klassic)
 
 </div>
